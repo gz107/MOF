@@ -1,5 +1,5 @@
 # MOF
-#------------------------------------#c
+#------------------------------------#
 ## Characterization calculation of MOF
 
 Mainly rewrote some bugs in the source code, and used library files (ProcessPoolExecutor) for multi-core parallel processing
